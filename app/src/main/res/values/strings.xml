@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="enter_text">Enter text</string>
+    <string name="submit">submit</string>
+    <string name="text">Enter text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
